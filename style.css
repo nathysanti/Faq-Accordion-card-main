@@ -12,11 +12,14 @@ body{
     border-radius: 20px;
 }
 .pattern{
-    height: 600px;
+    height: 750px;
     margin: left;
     position: absolute;
+    margin-top: -200px;
+    margin-left: -400px;
 }
 .womandesktop{
     height: auto;
     margin: 1rem auto;
+    margin-left: -150px;
 }

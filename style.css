@@ -10,16 +10,20 @@ body{
     width: 1000px;
     margin: 7rem auto;
     border-radius: 20px;
+    display: flex;
+    background-image: url(./images/bg-pattern-desktop.svg);
+    background-position: left ;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-.pattern{
-    height: 750px;
-    margin: left;
-    position: absolute;
-    margin-top: -200px;
-    margin-left: -400px;
-}
+
 .womandesktop{
     height: auto;
     margin: 1rem auto;
     margin-left: -150px;
+}
+.faq{
+    width: 50%;
+    align-items: flex-end;
+    margin: right;
 }
